@@ -1,8 +1,8 @@
-# 🛍️ Customer Segmentation Mini Project
+Customer Segmentation Mini Project
 
 A beginner-friendly machine learning project using K-Means Clustering to segment mall customers.
 
-## 📁 Project Structure
+Project Structure
 
 ```
 customer_segmentation/
@@ -13,7 +13,7 @@ customer_segmentation/
 └── README.md                     ← This file
 ```
 
-## 🚀 How to Run
+How to Run
 
 ### 1. Install dependencies
 ```bash
@@ -28,8 +28,7 @@ jupyter notebook Customer_Segmentation.ipynb
 ### 3. Run all cells in order (Cell → Run All)
 
 ---
-
-## 📊 What the Notebook Covers
+What the Notebook Covers
 
 | Step | Topic |
 |------|-------|
@@ -45,7 +44,7 @@ jupyter notebook Customer_Segmentation.ipynb
 
 ---
 
-## 🧠 Techniques Used
+Techniques Used
 
 - **K-Means Clustering** — unsupervised ML algorithm
 - **Elbow Method** — finds optimal number of clusters (k)
@@ -55,7 +54,7 @@ jupyter notebook Customer_Segmentation.ipynb
 
 ---
 
-## 💡 5 Customer Segments
+5 Customer Segments
 
 | Cluster | Name | Income | Spending |
 |---------|------|--------|---------|
@@ -67,7 +66,7 @@ jupyter notebook Customer_Segmentation.ipynb
 
 ---
 
-## 🔧 Requirements
+Requirements
 
 - Python 3.7+
 - pandas, numpy, matplotlib, seaborn, scikit-learn
